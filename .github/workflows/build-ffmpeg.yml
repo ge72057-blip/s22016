@@ -120,7 +120,7 @@ jobs:
           retention-days: 30
 
   ios:
-    runs-on: macos-14
+    runs-on: macos-15
     timeout-minutes: 360
     strategy:
       fail-fast: false
